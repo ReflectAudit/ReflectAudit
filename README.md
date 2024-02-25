@@ -1,4 +1,4 @@
-![ReflectAudit Cover](RA_CV.png)
+![ReflectAudit Cover](Reflectcover.png)
 
 # ReflectAudit: Blockchain Security Experts
 
