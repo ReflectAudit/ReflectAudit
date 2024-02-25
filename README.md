@@ -1,3 +1,5 @@
+![ReflectAudit Cover](RA_CV.png)
+
 # ReflectAudit: Blockchain Security Experts
 
 Welcome to the official GitHub of ReflectAudit! We specialize in providing top-tier smart contract audits, blockchain security solutions, and intelligent analyses to enhance the security and reliability of blockchain projects.
